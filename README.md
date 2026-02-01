@@ -95,7 +95,5 @@ This project is licensed for educational and demo purposes only.
 
 ---
 
-Would you like me to:
-- Save this directly as `README.md` in your project folder?
-- Help you deploy it to **Streamlit Cloud** for easy sharing?
+
 
